@@ -1,0 +1,183 @@
+{
+    "questions": [{
+            "questionText": "The part of the brain that is responsible for higher thought processes is the ...",
+            "options": [{
+                    "text": "cerebellum"
+                },
+                {
+                    "text": "medulla oblongata"
+                },
+                {
+                    "text": "hypothalamus"
+                },
+                {
+                    "text": "cerebrum",
+                    "correct": true
+                }
+            ],
+            "explanation": "The cerebrum is reponsible for higher thought proccesses"
+        },
+        {
+            "questionText": "The central nervous system is made up of the... ",
+            "options": [{
+                    "text": "cranial and spinal nerves"
+                },
+                {
+                    "text": "brain and spinal cord",
+                    "correct": true
+                },
+                {
+                    "text": "sympathetic and parasympathetic nerves"
+                },
+                {
+                    "text": "autonomic and peripheral nervous systems"
+                }
+            ],
+            "explanation": "The brain and spinal make up the central nervous system."
+        },
+        {
+            "questionText": "Which ONE of the following is the dark-coloured layer of the eye, which is rich in blood vessels?",
+            "options": [{
+                    "text": "Conjunctiva"
+                },
+                {
+                    "text": "Sclera"
+                },
+                {
+                    "text": "Cornea"
+                },
+                {
+                    "text": "choroid.",
+                    "correct": true
+                }
+            ],
+            "explanation": "Choroid is a thin, pigmented vascular connective tissue layer of the eyeball that extends from the ora serrata to the optic nerve (CN II)."
+        },
+        {
+            "questionText": "which ONE of the following parts of the eye contains the photoreceptors?",
+            "options": [{
+                    "text": "Retina",
+                    "correct": true
+                },
+                {
+                    "text": "Iris"
+                },
+                {
+                    "text": "Sclera"
+                },
+                {
+                    "text": "Vitreous humour"
+                }
+            ],
+            "explanation": "The retina processes light through a layer of photoreceptor cells."
+        },
+        {
+            "questionText": "Which structures in the eye are responsible for the refraction of light?",
+            "options": [{
+                    "text": "Pupil and iris"      
+                },
+                {
+                    "text": "Blind spot and yellow spot"
+                },
+                {
+                    "text": "Cornea and lens",
+                    "correct": true
+                },
+                {
+                    "text": "Sclera and suspensory ligaments"
+                }
+            ],
+            "explanation": "The cornea is the clear front window of the eye which transmits and focuses (i.e., sharpness or clarity) light into the eye and the lens focuses light rays onto the retina."
+        },
+        {
+            "questionText": "Which ONE of the following occurs when you look up from reading a book on a clear, sunny day to focus on a mountain more than 100 metres away?",
+            "options": [{
+                    "text": "Radial muscles of the iris contract."
+                },
+                {
+                    "text": "Pupil becomes dilated."
+                },
+                {
+                    "text": "Ciliary muscles relax",
+                    "correct": true
+                },
+                {
+                    "text": "Lens becomes more convex."
+                }
+            ],
+            "explanation": "For looking at far objects, the ciliary muscle relaxes"
+        },
+        {
+            "questionText": "Which ONE of the following pathways represents a reflex arc",
+            "options": [{
+                    "text": "Muscle -> Spinal cord -> Brain"
+                },
+                {
+                    "text": "Effectors -> Spinal cord -> Receptor "
+                },
+                {
+                    "text": "Receptor -> Spinal cord -> Brain"
+                },
+                {
+                    "text": "Receptor -> Spinal cord -> Muscles",
+                    "correct": true
+                }
+            ],
+            "explanation": "A reflex action follows this general sequence and does not involve the conscious part of the brain. Stimulus -> receptor -> sensory neurone -> relay neurone -> motor neurone -> effector -> response."
+        },
+        {
+            "questionText": "After excercising in a gymnasium people often go into a steam room to relax their muscles. The average temperature in a steam room is 41 degrees celsius and the humidity is between 80% and 100%. Which ONE of the following explains why people are advised NOT to stay in a steam room for longer than 15 minutes?",
+            "options": [{
+                    "text": "Increased sweating will cause overcooling."
+                },
+                {
+                    "text": "Sweat will not evaporate causing overheating.",
+                    "correct": true
+                },
+                {
+                    "text": "Vasoconstriction will lower sweat production."
+                },
+                {
+                    "text": "Heat receptors in the skin will be damaged."
+                }
+            ],
+            "explanation": "A steam room causes extensive sweating and an increase in body temperature, you can dehydrate easily"
+        },
+        {
+            "questionText": "A tumour in the hypothalamus of the brain of a patient caused a condition called diabetes insipidus. Below are some of the patient's symptoms: Dehydration, Production of large quantities of dilute urine. Which ONE of the following is the most likely effect of the tumour?",
+            "options": [{
+                    "text": "Increased secretion of TSH"    
+                },
+                {
+                    "text": "Decreased secretion of ADH",
+                    "correct": true
+                },
+                {
+                    "text": "Increased reabsorption of water in the kidneys"
+                },
+                {
+                    "text": "Increased permeability of the collecting ducts in the kidney to water"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Contraceptive pills which prevent pregnancy are likely to contain...",
+            "options": [{
+                    "text": "high levels of FSH and progesterone."
+                },
+                {
+                    "text": "high levels of LH and oestrogen."
+                },
+                {
+                    "text": "high levels of only FSH."
+                },
+                {
+                    "text": "high levels of only progesterone",
+                    "correct": true
+                }
+            ],
+            "explanation": "The oral contraceptive, which is known as the pill, contains oestrogen or progesterone."
+        }
+    ]
+}
